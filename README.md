@@ -4,7 +4,8 @@
 
 | Resource | Link |
 |----------|------|
-| **Team guide (browser)** | https://lynarasimha.github.io/Fabric_Beacon/DOCUMENTATION.html (enable Pages: branch **gh-pages**, root) |
+| **Team guide (browser)** | https://glofoxinc.github.io/Fabric_Beacon/DOCUMENTATION.html |
+| **Repo** | https://github.com/glofoxinc/Fabric_Beacon |
 | **Product brief** | [PRODUCT-BRIEF.md](./PRODUCT-BRIEF.md) |
 | **Leadership doc** | [docs/Fabric-Beacon-Project-Insights.docx](./docs/Fabric-Beacon-Project-Insights.docx) |
 
