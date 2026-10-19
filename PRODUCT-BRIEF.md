@@ -12,4 +12,4 @@
 
 **What we can use it for:** Onboarding; impact before changes; pre-release workspace review; cleanup; migration; leadership estate view.
 
-**Team guide:** https://glofoxinc.github.io/Fabric_Beacon/DOCUMENTATION.html
+**Team guide:** https://lynarasimha.github.io/Fabric_Beacon/DOCUMENTATION.html
